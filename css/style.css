@@ -14,6 +14,20 @@ body {
     border: 1px solid #dddddd;
     margin: 0 auto;
 }
+#cabecera {
+    padding: 1rem;
+    background: dodgerblue;
+    color: #ffffff;
+    font-weight: bold;
+    margin: 0%;
+}
+#cabecera h2 {
+    margin: 0;
+}
+
 #container h1 {
     font-size: 20px;
+}
+#post {
+    padding: 1rem;
 }
